@@ -84,3 +84,6 @@ OpenAI GPT: For conversational capabilities
 
 System and File Operations: os, subprocess, time, threading
 
+![Jarvis Logo](jarvis.png)
+
+
